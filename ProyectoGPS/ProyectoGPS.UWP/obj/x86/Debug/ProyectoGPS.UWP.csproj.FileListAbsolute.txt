@@ -1,0 +1,10 @@
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\ProyectoGPS.UWP.csprojAssemblyReference.cache
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\App.g.i.cs
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\App.g.cs
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\MainPage.g.cs
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\App.xaml
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\MainPage.xaml
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\App.xbf
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\MainPage.xbf
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS.UWP\obj\x86\Debug\XamlSaveStateFile.xml

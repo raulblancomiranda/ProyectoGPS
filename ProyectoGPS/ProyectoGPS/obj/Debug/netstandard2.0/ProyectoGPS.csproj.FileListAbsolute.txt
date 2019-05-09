@@ -1,0 +1,24 @@
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\bin\Debug\netstandard2.0\ProyectoGPS.deps.json
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\bin\Debug\netstandard2.0\ProyectoGPS.dll
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.csprojAssemblyReference.cache
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.csproj.CoreCompileInputs.cache
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.AssemblyInfoInputs.cache
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.AssemblyInfo.cs
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\bin\Debug\netstandard2.0\ProyectoGPS.pdb
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.dll
+C:\Proyectos Xamarin\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.pdb
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\bin\Debug\netstandard2.0\ProyectoGPS.deps.json
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\bin\Debug\netstandard2.0\ProyectoGPS.dll
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\bin\Debug\netstandard2.0\ProyectoGPS.pdb
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.csprojAssemblyReference.cache
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.csproj.CoreCompileInputs.cache
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.AssemblyInfoInputs.cache
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.AssemblyInfo.cs
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.dll
+C:\macos\Proyecto\ProyectoGPS\ProyectoGPS\ProyectoGPS\obj\Debug\netstandard2.0\ProyectoGPS.pdb
